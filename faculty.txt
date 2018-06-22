@@ -1,0 +1,24 @@
+
+[{
+ "First_Name" : "sanju ",
+ "Last_name" : "chaudhary",
+ "Photo" : "sample1.jpg",
+ "Department" : "IT",
+ "Research_Areas" : "deep learning",
+ "Phone_Number" : "37328"},
+{
+  "First_Name" : "CM",
+ "Last_name" : "chaudhary",
+ "Photo" : "sample2.jpg",
+ "Department" : "CSc",
+ "Research_Areas" : "Machine learning",
+ "Phone_Number" : "888"
+ },
+{
+  "First_Name" : "sunita",
+ "Last_name" : "Gupta",
+ "Photo" : "sample3.jpg",
+ "Department" : "CSc",
+ "Research_Areas" : "Machine learning",
+ "Phone_Number" : "888"
+ }]
